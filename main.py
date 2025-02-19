@@ -31,7 +31,7 @@ ALPHA_MAP = {
     " ": "   \n   \n   ",
     "@": "▀ ▄ ▀\n▄   ▄\n ▀▀▀ ",
 }  #'▄ ▀▄ \n─ ─█ \n▀ ▄▀',
-PW = b"RkEyNA=="
+PW = b"U1AyNQ=="
 
 
 def b64_to_s(input):
